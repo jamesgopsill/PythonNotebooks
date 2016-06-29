@@ -1,0 +1,1272 @@
+{
+	"table": "publication",
+	"rows":
+	[
+		{
+			"publication_title": "THE UNDERLYING RELATIONSHIPS BETWEEN SUCCESS CRITERIA &amp; SUCCESS FACTORS IN NPD ACTIVITIES",
+			"publication_author": "Achiche S., Howard T. J., McAloone T. C., Deng L., Baron L.",
+			"publication_keyword": "new product development, success criteria and factors, project management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TARGET VALUE DESIGN",
+			"publication_author": "Ballard G.",
+			"publication_keyword": "construction, project management, target costing",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARDS AN INTEGRATION OF SUPPLY CHAIN REQUIREMENTS INTO THE PRODUCT DEVELOPMENT PROCESS",
+			"publication_author": "Brosch M., Beckmann G., Krause D.",
+			"publication_keyword": "design for supply chain requirements, complexity, design for value chain",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TECHNICAL-COMMERCIAL INTERFACE - A BASELINE FOR SUCCESSFUL NEW PRODUCT DEVELOPMENT",
+			"publication_author": "Fain N., Kovacevic A., Fairbairn J.",
+			"publication_keyword": "new product development, R&amp;D, marketing, integration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MATURITY BASED IMPROVEMENT OF PRODUCT DEVELOPMENT PROCESSES IN SMALL AND MEDIUM-SIZED ENTERPRISES",
+			"publication_author": "Gausemeier J., Bensiek T., Kuehn A., Grafe M.",
+			"publication_keyword": "performance evaluation and improvement, process maturity models, product development process, virtual prototyping",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "STRUCTURAL MODELLING AND ANALYSIS OF ORGANIZATIONAL CHANGE DURING LEAN DEVELOPMENT IMPLEMENTATION",
+			"publication_author": "Helten K., Lindemann U.",
+			"publication_keyword": "lean development, pilot projects, organizational change, structural modelling and analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DECISION-MAKING AND FEEDBACK AS FOCI FOR KNOWLEDGE-BASED STRATEGIES SUPPORTING CONCEPT DEVELOPMENT",
+			"publication_author": "Marini V. K., Ahmed-Kristensen S.",
+			"publication_keyword": "decision-making, design feedback, concept development, risk, robustness",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PRODUCT ORIENTED ORGANIZATION OF PEOPLE TOWARD FOSTERING CAPABILITIES IN PRODUCT DESIGN",
+			"publication_author": "Oizumi K., Aoyama K.",
+			"publication_keyword": "organizational structure design, capability modelling, multiple domain matrix, communication modelling",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTRAORGANIZATIONAL BENEFITS FROM PRODUCT CONFIGURATION INFORMATION – A COMPLEMENTARY MODEL",
+			"publication_author": "Persson Slumpi T., Ahlin K., Öberg L. -M.",
+			"publication_keyword": "benefit, intraorganizational, configuration management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "RELATING VALUE METHODS TO WASTE TYPES IN LEAN PRODUCT DEVELOPMENT",
+			"publication_author": "Siyam G. I., Kirner K., Wynn D. C., Lindemann U., Clarkson P. J.",
+			"publication_keyword": "lean product development, value, waste, information in product development",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CRITERIA FOR EVALUATING THE SUCCESS OF LARGE-SCALE ENGINEERING PROGRAMS",
+			"publication_author": "Steuber M., Oehmen J.",
+			"publication_keyword": "program management, success measurement, product development",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TRANSFORMATION TO LEAN PRODUCT DEVELOPMENT – APPROACHES AT TWO AUTOMOTIVE SUPPLIERS",
+			"publication_author": "Ström M., Alemyr M., Bükk S., Gustafsson G., Johannesson H.",
+			"publication_keyword": "lean, product development, automotive, supplier",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PLANNING DESIGN AUTOMATION SYSTEMS FOR PRODUCT FAMILIES - A COHERENT, TOP DOWN APPROACH",
+			"publication_author": "Sunnersjö S.",
+			"publication_keyword": "design automation, product variety, product knowledge representation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A COMPREHENSIVE EMPIRICAL APPROACH FOR DETERMINATION OF SUCCESS FACTORS OF PRODUCT DEVELOPMENT PROJECTS",
+			"publication_author": "Wörz U., Göhlich D.",
+			"publication_keyword": "empirical study, comprehensive, success factors, development projects",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PROPOSAL OF A RADICAL INNOVATION PROJECT SELECTION MODEL BASED ON PROOFS OF VALUE, INNOVATION, AND CONCEPT",
+			"publication_author": "Zimmer B., Yannou B., Stal–Le Cardinal J.",
+			"publication_keyword": "innovative idea selection, radical innovation, proofs of value, proofs of innovation, proofs of concept",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "OPEN INNOVATION PRACTICES IN A CLUSTER CONTEXT: A MEDICON VALLEY CASE STUDY",
+			"publication_author": "Achiche S., Howard T. J., Ástvaldsdóttir A., Andersen O., McAloone T. C.",
+			"publication_keyword": "open innovation, MV, clusters, barriers and drivers",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MULTI-LAYERED CHANGE: ENGINEERING CHANGE IN BUILDING REFURBISHMENT",
+			"publication_author": "Garthwaite P. M., Eckert C. M.",
+			"publication_keyword": "construction, refurbishment, engineering change, hospital",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AN ANALYSIS OF DESIGN PROCESS MODELS ACROSS DISCIPLINES",
+			"publication_author": "Gericke K., Blessing L.",
+			"publication_keyword": "design process, design methodology, product development, interdisciplinary collaboration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "OPEN DESIGN AND CROWDSOURCING: MATURITY, METHODOLOGY AND BUSINESS MODELS",
+			"publication_author": "Howard T. J., Achiche S., Özkil A., McAloone T. C.",
+			"publication_keyword": "open design, open hardware, crowdsourcing, business models, open source, open innovation, open service, PSS",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "UTILIZATION OF OUTSIDE-IN INNOVATION INPUT FOR  PRODUCT DEVELOPMENT",
+			"publication_author": "Kain A., Kirschner R., Lindemann U.",
+			"publication_keyword": "open innovation, product development, customer integration method",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ON THE USE OF DESIGN THEORIES TO SUPPORT INNOVATION AND ORGANIZATIONAL PROCESSES",
+			"publication_author": "Kazakci A. O., Le Masson P.",
+			"publication_keyword": "design theory, modeling, management tools, innovation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A DESIGN CASE OF PRODUCT-SERVICE SYSTEMS – URBAN UMBRELLA RENTAL PSS",
+			"publication_author": "Kim Y. S., Lee S. W., Kim J. H., Do S. H.",
+			"publication_keyword": "product-service systems (PSS), PSS design process, business model",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EXPLORING DIFFERENCES BETWEEN AVERAGE AND CRITICAL ENGINEERING CHANGES: SURVEY RESULTS FROM DENMARK",
+			"publication_author": "Langer S., Maier A. M., Wilberg J., Münch T. J., Lindemann U.",
+			"publication_keyword": "engineering change management, change management, engineering change, design change, change cause, change effect",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A CYBERNETIC PERSPECTIVE ON METHODS AND PROCESS MODELS IN COLLABORATIVE DESIGNING",
+			"publication_author": "Maier A. M., Wynn D. C., Andreasen M. M., Clarkson P. J.",
+			"publication_keyword": "design process, design theory and methodology, cybernetics, communication, collaborative design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "STARTING UP NETWORKED INNOVATION PROJECTS",
+			"publication_author": "Maurer C., Valkenburg R.",
+			"publication_keyword": "open innovation, networked innovation, network types, finding partners, motivation, collaboration barriers",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ESTABLISHING COLLABORATIVE NETWORKS FOR THE CONCEPTUALISATION OF PSS",
+			"publication_author": "Mougaard K., Howard T. J., McAloone T. C., Neugebauer L., Bey N.",
+			"publication_keyword": "product/service-systems, value chain collaboration, value network analysis, co-creation, supply chain innovation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DEVELOPMENT OF A SYSTEM FOR KNOWLEDGE-BASED PRODUCT-SERVICE SYSTEM DESIGN SUPPORT",
+			"publication_author": "Nemoto Y., Akasaka F., Shimomura Y.",
+			"publication_keyword": "service engineering, product-service system, design support system, design knowledge management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CHARACTERISTICS OF SUCCESSFUL RISK MANAGEMENT IN PRODUCT DESIGN",
+			"publication_author": "Olechowski A., Oehmen J., Seering W., Ben-Daya M.",
+			"publication_keyword": "risk management, product design, success factors",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARDS VALUE DRIVEN SIMULATION OF PRODUCT-SERVICE SYSTEMS: A CONCEPTUAL SCENARIO",
+			"publication_author": "Panarotto M., Larsson T. C.",
+			"publication_keyword": "value engineering, product-service systems, simulation-driven design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "NUCLEOCYCLE - THE BUILDING BLOCK OF PROCESS MODELS",
+			"publication_author": "Sadlauer A., Hehenberger P., Zeman K.",
+			"publication_keyword": "process models, engineering design organisation, engineering micro-management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DETERMINING THE DRIVERS FOR LONG LEAD TIMES OF ENGINEERING CHANGE ORDERS: A DATA MINING APPROACH",
+			"publication_author": "Sharafi A., Elezi F., Zuber F., Wolf P., Krcmar H., Lindemann U.",
+			"publication_keyword": "engineering change order, knowledge discovery in databases, lead time, product development process",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MAPPING RISKS IN PRODUCT DEVELOPMENT",
+			"publication_author": "Škec S., Štorga M., Stankovic T., Marjanovic D.",
+			"publication_keyword": "risk, product development process, risk identification",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ENABLING PRODUCT-SERVICE SYSTEM DEVELOPMENT USING CREATIVE WORKSHOPS: EXPERIENCES FROM INDUSTRY CASES",
+			"publication_author": "Wallin J., Kihlander I.",
+			"publication_keyword": "product-service system, workshop, creative methods, facilitation, industrial case",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN OF ROBUST SERVICE OPERATIONS USING CYBERNETIC PRINCIPLES AND SIMULATION",
+			"publication_author": "Wynn D. C., Cassidy S., Clarkson P. J.",
+			"publication_keyword": "service design, cybernetics, uncertainty, robustness, simulation, cambridge advanced modeller (CAM)",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESCRIPTIVE MODEL FOR INTERPRETING INNOVATIVE DESIGN",
+			"publication_author": "Zhang Q., Deniaud I., Caillaud E., Baron C.",
+			"publication_keyword": "innovative design, descriptive model, system",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "BENEFITS OF THE USE OF VIRTUAL ENVIRONMENTS IN PRODUCT DESIGN REVIEW MEETING",
+			"publication_author": "Aromaa S., Leino S. -P., Viitaniemi J., Jokinen L., Kiviranta S.",
+			"publication_keyword": "design review, virtual environments (VEs), human centred design (HCD)",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A NEW TOOL FOR IMMERSIVE 3D FREE-FORM SURFACE MODELLING AND REFINING",
+			"publication_author": "Arqueros N. J., Prieto P. A., Zúñiga M. D.",
+			"publication_keyword": "3D modelling, 3D vision, 3D input",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CAD BASED SIMULATION OF ULTRASONIC SHOT PEENING PROCESS",
+			"publication_author": "Badreddine J., Remy S., Micoulaut M., Rouhaud E., Desfontaine V., Chateau F., Doubre-Baboeuf G., Renaud P.",
+			"publication_keyword": "ultrasonic shot peening, CAD, design tool, simulation, mesh",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A REVIEW OF STATE OF THE ART AND EMERGING INTERACTION TECHNOLOGIES AND THEIR IMPACT ON DESIGN AND DESIGNING IN THE FUTURE",
+			"publication_author": "Boa D., Cash P., Hicks B.",
+			"publication_keyword": "designer-computer interface, design activities, interaction technologies",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EXPLORING NEW FORMS OF ONLINE COLLABORATIVE DESIGN: WORKSHOP DISCUSSION PAPER",
+			"publication_author": "Bohemia E., Blythe M., Cruickshank L., Fain N., Kovacevic A., Steane J.",
+			"publication_keyword": "virtual design teams, distributed design, virtual collaboration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AN INTEGRATED STACK-UP ANALYSIS TOOL",
+			"publication_author": "Corallo A., Lazoi M., Pascali G.",
+			"publication_keyword": "computer aided design, product data management, stack-up analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARD SIMULATION-BASED MECHATRONIC DESIGN",
+			"publication_author": "Dohr F., Vielhaber M.",
+			"publication_keyword": "mechatronics, mechatronic design, simulation-based design, modeling and simulation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ENHANCED OBJECT-DRIVEN DESIGN (EOD) BASED ON PRODUCT PROPERTIES – FUNDAMENTALS AND IMPLEMENTATION IN THE ENGINEERING NETWORK CONCEPT",
+			"publication_author": "Dankwort C. W., Eigner M., Faißt K. G., Keßler A.",
+			"publication_keyword": "enhanced object, design by properties, view-based design, engineering network concept, product development process",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SIMULATION BASED AUTOMATED DESIGN TO COST OF STRUCTURALLY COMPLEX PRODUCTS",
+			"publication_author": "Frank G., Hillbrand C., Schwarz M.",
+			"publication_keyword": "CAD, knowledge based engineering, cost optimization, structural analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ANALYSING PRODUCT DEVELOPMENT WORKING PRACTICES FOR ENHANCING INNOVATION THROUGH COLLABORATION AND SIMULATION",
+			"publication_author": "Galea A., Francalanza E., Farrugia P. J., Borg J. C.",
+			"publication_keyword": "innovation management techniques, design and manufacturing knowledge, as-is model, to-be model,  creativity",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ASSEMBLY TIME ESTIMATION MODEL FOR EARLY PRODUCT DESIGN PHASES – CONCEPT DEVELOPMENT AND EMPIRICAL VALIDATION",
+			"publication_author": "Halfmann N., Krause D.",
+			"publication_keyword": "design for assembly, assembly time evaluation, design structure matrix, assembly sequencing",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CONNECTING GLOBAL PRODUCT DEVELOPMENT WITH CORPORATE STRATEGY",
+			"publication_author": "Hansen Z. N. L., Ahmed-Kristensen S.",
+			"publication_keyword": "product development, design, knowledge, offshoring, outsourcing, strategy",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "GENERATING SIMULINK AND STATEFLOW MODELS FROM SOFTWARE SPECIFICATIONS",
+			"publication_author": "Heinzemann C., Pohlmann U., Rieke J., Schäfer W., Sudmann O., Tichy M.",
+			"publication_keyword": "mechatronic systems engineering, software engineering, mechatronicUML",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A DESIGN ASSISTANT ARCHITECTURE BASED ON DESIGN TABLEAUX",
+			"publication_author": "Hendriks L., Kazakci A. O.",
+			"publication_keyword": "formal framework for design, design tableau, design assistant",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PERMANENTLY ESTIMATION OF ASSEMBLY COSTS DURING PRODUCT DEVELOPMENT",
+			"publication_author": "Husung S., Holle W., Hilmer F., Weber C.",
+			"publication_keyword": "assembly, virtual engineering, methods time measurement, CAD",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CHARACTERIZING COLLABORATIVE ENGINEERING NETWORKS",
+			"publication_author": "Karvonen I.",
+			"publication_keyword": "collaboration, networks, engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A STANDARDIZED MEASUREMENT TOOL FOR EVALUATING AND COMPARING TEAM REFRAMING CAPABILITIES",
+			"publication_author": "Kress G., Schar M., Steinert M.",
+			"publication_keyword": "reframing, redesign, teams, design methodology",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PARAMETER-DRIVEN MECHANISM SYNTHESIS IN CAD",
+			"publication_author": "Lonij G., Kurtenbach S., Corves B.",
+			"publication_keyword": "mechanism synthesis, modular graphical approach, CAD",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A SPINNING-HULL APPROACH PROVIDING RAPID BALANCE CALCULATIONS WHEN MODELLING HUMAN POSTURES",
+			"publication_author": "Medland A. J.",
+			"publication_keyword": "convex hull, human posture, constraint processes, tetraplegics",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ASSUMPTIONS FOR DISTRIBUTED CONCURRENT DESIGN AND DECISION MAKING",
+			"publication_author": "Nyström C. A., Olsson H., Asproth V.",
+			"publication_keyword": "distributed concurrent design, concurrent design, decision making, awareness, trust",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "USE OF METHODS OF SENSITIVITY ANALYSIS FOR SIMULATION PLANNING",
+			"publication_author": "Reitmeier J., Paetzold K.",
+			"publication_keyword": "uncertainty, data quality, sensitivity analysis, simulation planning",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A TESTBED FOR STUDYING VENTURE DESIGN TEAMS IN EMERGING MARKETS",
+			"publication_author": "Sonalkar N., Mabogunje A., Parmar V., Cannon D., Leifer L.",
+			"publication_keyword": "venture design teams, testbed, emerging markets",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "5 SENSES OF INTERACTION - A MODEL FOR CATEGORISING COLLABORATIVE TOOLS AND CREATIVE METHODS",
+			"publication_author": "Törlind P., Garrido P.",
+			"publication_keyword": "distributed engineering, global collaboration, creative meetings, creative methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MULTIMODAL INTERACTION, COLLABORATION, AND SYNTHESIS IN DESIGN AND ENGINEERING PROCESSING",
+			"publication_author": "Wendrich R. E.",
+			"publication_keyword": "intuition, collaborative interaction, mixed reality, ideation, creativity, decision making, synthesis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "APPLICATION OF SENSITIVITIES ON SIMULATION-DATA-BASED METAMODELS DURING THE PRODUCT SYNTHESIS",
+			"publication_author": "Ziegler P., Breitsprecher T., Walter M., Westphal C., Wartzack S.",
+			"publication_keyword": "design support tool, simulation, correlations, sensitivities",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CAN COMPUTER GRAPHIC SYSTEM BE USED TO INFORM DESIGNERS ABOUT INCLUSIVITY?",
+			"publication_author": "Zitkus E., Langdon P., Clarkson P. J.",
+			"publication_keyword": "inclusive design, accessibility, CAD, design process",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CASE EXAMPLE IN SYSTEMATIC DESIGN ENGINEERING - LEEBOARD MOUNTING",
+			"publication_author": "Eder W. E.",
+			"publication_keyword": "design engineering, systematic method, case example",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CASE EXAMPLE IN SYSTEMATIC DESIGN ENGINEERING - PROPELLER SHAFT BEARING ARRANGEMENT",
+			"publication_author": "Eder W. E.",
+			"publication_keyword": "design engineering, systematic method, case example",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A REVERSE ENGINEERING APPROACH TO ENHANCE MACHINERY DESIGN FOR SAFETY",
+			"publication_author": "Fargnoli M., Vita L., Gattamelata D., Laurendi V., Tronci M.",
+			"publication_keyword": "design for safety, reverse engineering, machinery safety, narrow-track tractors, roll-over protective structure",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "APPLICATION OF THE MECHATRONIC-SYSTEM-MODEL-APPROACH FOR THE DEVELOPMENT OF AN INDUSTRIAL ANNELING SIMULATOR",
+			"publication_author": "Follmer M., Hehenberger P., Zeman K.",
+			"publication_keyword": "mechatronic, system model, system-level modelling",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ACCESSABILITY TO MATERIAL INFORMATION BY USING STANDARDIZED MATERIAL NOTATIONS",
+			"publication_author": "Janus A., Kirdar C., Staeves J., Tartler D., Wartzack S.",
+			"publication_keyword": "information retrieval, knowledge management, material notation, standardization",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DEVELOPING VIP2M: A VIRTUAL ENVIRONMENT FOR PROTOTYPING MOBILE WORK MACHINES",
+			"publication_author": "Kuusisto J., Kaapu T., Ellman A., Tiainen T.",
+			"publication_keyword": "co-creation, virtual prototyping, machine design, action research, virtual environments",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "USING FEEDBACK FROM END USERS TO IMPROVE DESIGN OF PRODUCT  SERVICE SYSTEMS",
+			"publication_author": "Lawlor-Wright T., Rainey M., Al Ghazal H., Ferrario M., Simm W., Whittle J.",
+			"publication_keyword": "participatory design, consultation, product service systems",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTEGRATION OF PLM AND ERP SYSTEMS AT KONCAR – INSTRUMENT TRANSFORMERS",
+			"publication_author": "Pavlic D.",
+			"publication_keyword": "PLM, ERP, eBOM, integration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MATERIALS SELECTION AND SOFTWARE APPLICATION AS DESIGN TOOLS FOR MARINE PROPULSION SHAFTING BEARINGS",
+			"publication_author": "Roldo L., Komar I., Vulic N.",
+			"publication_keyword": "materials selection, journal bearings, software application",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTERDISCIPLINARY SYSTEM MODEL FOR AGENT BASED MECHATRONIC DESIGN OF TURBOCHARGING SYSTEMS",
+			"publication_author": "Schmelcher J., Stetter R., Kaufmann A., Voos H.",
+			"publication_keyword": "mechatronic design, agent based systems",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "3D EXHAUST SYSTEM (MUFFLER) DESIGN TOOL FOR 1D CFD SIMULATION PURPOSES",
+			"publication_author": "Tonkovic D., Putz N., Juretic F.",
+			"publication_keyword": "muffler, exhaust system, CAD system, mesh generation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CONCEPTUAL AND PRACTICAL USER INTEGRATION INTO THE DESIGN PROCESS - A FOUR STEP STAKEHOLDER APPROACH",
+			"publication_author": "Agrawal V., Vaidya A. R., Shluzas L. A., Steinert M., Katila R.",
+			"publication_keyword": "user centric design, stakeholder ranking, artistry inspired Design methods, science inspired Design methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CAUSAL MODELS FOR BIO-INSPIRED DESIGN: A COMPARISON",
+			"publication_author": "Baldussu A., Cascini G., Rosa F., Rovida E.",
+			"publication_keyword": "bio-inspired design, causal model, FBS, SAPPhIRE, DANE",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AN INVESTIGATION INTO LIMITED INTEGRATION OF COMPUTATIONAL DESIGN SYNTHESIS IN COMMON DESIGN PRACTICE",
+			"publication_author": "Bolognini F., Jauregui Becker J. M., Schotborch W. O.",
+			"publication_keyword": "computational design synthesis, generative tools, Design methods, design process, common design practice, industry",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "OPTIMIZATION APPROACH FOR FUNCTION-PARTITIONING IN AN AUTOMOTIVE ELECTRIC ELECTRONIC SYSTEM ARCHITECTURE",
+			"publication_author": "Brandt L. S., Krämer N., Metzger J., Lindemann U.",
+			"publication_keyword": "automotive product development, electric and electronic, system architecture, function-partitioning, modular construction set",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN FOR INNOVATION",
+			"publication_author": "Cantamessa M., Cascini G., Montagna F.",
+			"publication_keyword": "needs identification, multi-stakeholders analysis, innovation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A COMPARISON OF THE BEHAVIOUR OF STUDENT ENGINEERS AND PROFESSIONAL ENGINEERS WHEN DESIGNING",
+			"publication_author": "Cash P. J., Hicks B. J., Culley S. J.",
+			"publication_keyword": "empirical study, students, design tasks",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "IDENTIFICATION AND SELECTION OF ECO-INNOVATIVE R&amp;D PROJECTS IN COMPLEX SYSTEMS INDUSTRIES",
+			"publication_author": "Cluzel F., Yannou B., Millet D., Leroy Y.",
+			"publication_keyword": "eco-design, eco-innovation, complex industrials system, R&amp;D project portfolio, creativity, eco-design strategy wheel",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "COMPARISON OF ENVIRONMENTAL CHARACTERISTICS OF FUNCTIONALLY EQUIVALENT DEVICES BY WEIGHTED PRODUCT METHOD",
+			"publication_author": "De Napoli L., Rizzuti S., Rocco C.",
+			"publication_keyword": "multi criteria decision making, weighted product method, simplified LCA, environmental performance indicators, functionally equivalent devices",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "NATURE-INSPIRED DESIGN STRATEGIES IN SUSTAINABLE PRODUCT DEVELOPMENT: A CASE-STUDY OF STUDENT PROJECTS",
+			"publication_author": "de Pauw I. C., Karana E., Kandachar P. V.",
+			"publication_keyword": "sustainable product design, biomimicry, cradle to cradle, design students, Design methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "IS THERE A NEED FOR DECISION SUPPORT IN SUSTAINABLE R&amp;D PORTFOLIO MANAGEMENT?",
+			"publication_author": "Decouttere C. J., Vandaele N. J.",
+			"publication_keyword": "R&amp;D portfolio, sustainable R&amp;D, group decision making, user experience",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MODELING OF THE FAILURE PROPAGATION OF AN ADVANCED MECHATRONIC SYSTEM WITHIN THE SPECIFICATION OF ITS PRINCIPLE SOLUTION",
+			"publication_author": "Dorociak R., Gausemeier J.",
+			"publication_keyword": "conceptual design, mechatronics, failure propagation, reliability, dynamic fault trees",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "THE FOUNDATION FOR ROBUST DESIGN: ENABLING ROBUSTNESS THROUGH KINEMATIC DESIGN AND DESIGN CLARITY",
+			"publication_author": "Ebro M., Howard T. J., Rasmussen J. J.",
+			"publication_keyword": "robust design, reliability, sensitivity, axiomatic, mechanism, kinematic, ambiguity, design clarity",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "NON-PROBABILISTIC UNCERTAINTY ANALYSIS IN EARLY DESIGN STAGES",
+			"publication_author": "Eifler T., Wiebel M., Haydn M., Hauer T., Birkhofer H., Bohn A.",
+			"publication_keyword": "uncertainty, process chain, fuzzy-analysis, early design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EVALUATING A METHODICAL APPROACH FOR DEVELOPING MODULAR PRODUCT FAMILIES IN INDUSTRIAL PROJECTS",
+			"publication_author": "Eilmus S., Gebhardt N., Rettberg R., Krause D.",
+			"publication_keyword": "product family, design for variety, modularization, evaluation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "FUNCTIONAL MODELLING PERSPECTIVES ACROSS DISCIPLINES: A LITERATURE REVIEW",
+			"publication_author": "Eisenbart B., Blessing L., Gericke K.",
+			"publication_keyword": "functional modelling, function formulation, cross-disciplinary",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARDS AN EARLY CONSIDERATION OF RAMP-UP PHASE IN THE PRODUCT DEVELOPMENT OF COMPLEX PRODUCTS",
+			"publication_author": "Elstner S., Krause D.",
+			"publication_keyword": "decision-support, ramp-up, risk and uncertainty",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PRODUCT’S LIFE CYCLE MODELLING FOR ECO-DESIGNING PRODUCT-SERVICE SYSTEMS",
+			"publication_author": "Fargnoli M., De Minicis M., Tronci M.",
+			"publication_keyword": "ecodesign, product-service systems, life cycle modelling, life cycle assessment",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A LIFECYCLE DESIGN APPROACH TO ANALYZE THE ECO-SUSTAINABILITY OF INDUSTRIAL PRODUCTS AND PRODUCT-SERVICE SYSTEMS",
+			"publication_author": "Favi C., Peruzzini M., Germani M.",
+			"publication_keyword": "eco-sustainability, lifecycle design, product-service system, industrial product",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A KNOWLEDGE-BASED DESIGN PROCESS FOR DIABETIC SHOE LASTS",
+			"publication_author": "Germani M., Bernabeu J. A., Mandolini M., Mengoni M., Raffaeli R.",
+			"publication_keyword": "customized shoe last, last design, diabetic foot",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "FBS LINKAGE MODEL – TOWARDS AN INTEGRATED ENGINEERING CHANGE PREDICTION AND ANALYSIS METHOD",
+			"publication_author": "Hamraz B., Caldwell N. H. M., Clarkson P. J.",
+			"publication_keyword": "change prediction, engineering change management, product process integration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CUSTOMIZED PRODUCT DESIGN BASED ON MEDICAL IMAGING",
+			"publication_author": "Harih G., Dolšak B., Kaljun J.",
+			"publication_keyword": "product design, customization, medical imaging, reverse engineering, innovation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "METHODOLOGIES TOWARD PRODUCT ARCHITECTURE IMPROVEMENT IN THEORY AND PRACTICE",
+			"publication_author": "Heilemann M., Schlüter M., Culley S. J., Haase H. -J.",
+			"publication_keyword": "product architecture, modularization methodologies, complexity managment",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MANUFACTURABILITY AND VALIDATION METHODS IN PASSENGER CAR DEVELOPMENT – AN INDUSTRIAL CASE STUDY",
+			"publication_author": "Hesse M., Weber C.",
+			"publication_keyword": "verification, validation, prototyping, manufacturability",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A NEW METHODOLOGY FOR ADVANCED ENGINEERING DESIGN: LESSONS FROM EXPERIMENTING C-K THEORY DRIVEN TOOLS",
+			"publication_author": "Hooge S., Agogué M., Gillier T.",
+			"publication_keyword": "C-K design theory, NPD management, knowledge management, practical guidelines, advanced engineering design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TELEHEALTH: TOWARDS A GLOBAL INDUSTRIAL ENGINEERING FRAMEWORK BASED ON VALUE CREATION FOR HEALTHCARE SYSTEMS DESIGN",
+			"publication_author": "Jean C., Stal-Le Cardinal  J., Jankovic  M., Bocquet J -C., Espinoza P.",
+			"publication_keyword": "Design processes, value creation, healthcare systems design, systems engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARDS A STRATEGIC DEVELOPMENT OF MODULAR PRODUCT PROGRAMS",
+			"publication_author": "Jonas H., Gebhardt N., Krause D.",
+			"publication_keyword": "modularity, product planning, product program, strategy",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AN APPROACH TO SUPPORT SEARCHING FOR BIOMIMETIC SOLUTIONS BASED ON SYSTEM CHARACTERISTICS AND ITS ENVIRONMENTAL INTERACTIONS",
+			"publication_author": "Kaiser M. K., Hashemi Farzaneh H., Lindemann U.",
+			"publication_keyword": "biomimetic, product development process, solution search",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN METHOD FOR MODULAR PRODUCT-SERVICE SYSTEM ARCHITECTURE",
+			"publication_author": "Kimita K., Shimomura Y.",
+			"publication_keyword": "service engineering, product-service systems, modular design, axiomatic design, design structure matrix",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "OPTIMAL DESIGN OF MODULAR CONFIGURATION CONSIDERING HIERARCHICY OF A PRODUCT FUNCTION STRUCTURE",
+			"publication_author": "Kobayashi M., Matsumoto Y., Higashi M.",
+			"publication_keyword": "modular design, design for environment, design optimization, function structure, hierarchical genetic algorithm",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "LIGHTWEIGHT MECHATRONICS DESIGN: AN INTEGRATED APPROACH",
+			"publication_author": "Luedeke T., Vielhaber M.",
+			"publication_keyword": "lightweight design, mechatronic design, product development methodology, integrated approach",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SUPPORTING VALIDATION IN THE DEVELOPMENT OF Design methods",
+			"publication_author": "Marxen L., Albers A.",
+			"publication_keyword": "design research methodology, validation, evaluation, design science, DRM",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "NEW INSIGHTS ON THE CONTACT&amp;CHANNEL-APPROACH – MODELLING OF SYSTEMS WITH SEVERAL LOGICAL STATES",
+			"publication_author": "Matthiesen S., Ruckpaul A.",
+			"publication_keyword": "functions, contact&amp;channel-approach, logical states, industrial application",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MECHANICAL STABILITY ANALYSIS OF THE EXTERNAL FIXATION SYSTEM SARAFIX",
+			"publication_author": "Mešic E., Muminovic A., Repcic N.",
+			"publication_keyword": "geometrical modeling, finite element analysis, experimental testing, principal stresses, fixator stiffness",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARDS EMPATHIC DESIGN IN THE IRISH MEDICAL DEVICE INDUSTRY",
+			"publication_author": "Morris S., Cormican K.",
+			"publication_keyword": "empathic design, medical device industry, challenges, best practice",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "APPLYING BIOINFORMATICS ANALYSIS PRINCIPLES TO CAD DATA TO BETTER CHARACTERIZE AND IMPROVE THE ENGINEERING DESIGN PROCESS",
+			"publication_author": "Nguyen P. T., Steinert M., Carroll  A., Leifer L.",
+			"publication_keyword": "computer-aided design, design rationale, sequence and cluster analysis, automated data capture, design process",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "FLEXIBILITY OF CHOICE AND PERCEIVED IMPACT OF USING Design methods",
+			"publication_author": "Owusu I. A., Daalhuizen J. J., Stappers P. J.",
+			"publication_keyword": "Design methods, perceived impact, self-efficacy",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "HOLISTIC LIGHTWEIGHT DESIGN FOR FUNCTION AND MASS: A FRAMEWORK FOR THE FUNCTION MASS ANALYSIS",
+			"publication_author": "Posner B., Keller A., Binz H., Roth D.",
+			"publication_keyword": "design method, design for X, design for function, design for mass, lightweight design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "STANDARDIZED REQUIREMENT ACQUISITION THROUGH CLUSTERING: A TOOL FOR ENERGY-EFFICIENT PRODUCTS",
+			"publication_author": "Rath K., Röder B., Birkhofer H., Bohn A.",
+			"publication_keyword": "requirement acquisition, clustering, energy-efficiency",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MULTIDIMENSIONAL SYSTEMS OF CONCEPTS – AN APPROACHE FOR A BETTER COMMUNICATION IN THE PROCESS OF REQUIRMENT ACQUISITION",
+			"publication_author": "Röder B., Dietrich C., Birkhofer H., Bohn A.",
+			"publication_keyword": "term cubes, OLAP data cubes, requirement clusters",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN FOR MOBILITY - A METHODICAL APPROACH",
+			"publication_author": "Schmidt J., Krüger D., Eilmus S., Paetzold K., Wartzack S., Krause D.",
+			"publication_keyword": "mobility, design for the elderly, digital human modeling, product family, variety",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A FRAMEWORK FOR DESCRIBING FUNCTIONS IN DESIGN",
+			"publication_author": "Srinivasan V., Chakrabarti A., Lindemann U.",
+			"publication_keyword": "function, framework, system, environment, SAPPhIRE, requirement, solution, intended, unintended",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ASSESSMENT OF ANTHROPOMETRIC METHODS IN HEADSET DESIGN",
+			"publication_author": "Stavrakos S.-K., Ahmed-Kristensen S.",
+			"publication_keyword": "comfort, anthropometry, ergonomics, human factors",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGNING MATERIAL STANDARDS",
+			"publication_author": "Stolt R.",
+			"publication_keyword": "material standard, specification, material selection",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CREATING AWARENESS ON NATURAL FIBRE COMPOSITES IN DESIGN",
+			"publication_author": "Taekema J., Karana E.",
+			"publication_keyword": "natural fibre composites, design tool kit, awareness",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTRODUCTORY APPROACH FOR SUSTAINABILITY INTEGRATION IN CONCEPTUAL DESIGN",
+			"publication_author": "Thompson A. W., Hallstedt S., Isaksson O.",
+			"publication_keyword": "conceptual design, sustainable design space, sustainability criteria",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AUTOMATED CLASSIFICATION INTO THE BIOMIMICRY TAXONOMY",
+			"publication_author": "Vandevenne D., Verhaegen P.-A., Dewulf S., Duflou J. R.",
+			"publication_keyword": "biomimicry, biologically-inspired design, biomimicry taxonomy",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A FRAMEWORK FOR EVALUATING APPLICABILITY OF DESIGN METHODOLOGIES",
+			"publication_author": "Vanhatalo M., Lehtonen T., Juuti T., Pakkanen J., Riitahuhta A.",
+			"publication_keyword": "product development, design process, design object knowledge, design abstraction",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ECO-DESIGN FOR MICROELECTRONIC PRODUCTS: MEASUREMENT AND INTEGRATION OF ENVIRONMENTAL CRITERIA FOR PACKAGE DESIGN",
+			"publication_author": "Villard A., Petit L., Lelah A., Brissaud D.",
+			"publication_keyword": "eco-design, microelectronic product, life cycle assessment, chips packaging",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AN EXPERIMENTAL STUDY ON IMPROVING DEPENDABILITY BY INVERSE FUNCTIONAL MODELLING",
+			"publication_author": "Wendland M., Sadek T., Labenda P.",
+			"publication_keyword": "dependability, inverse functional modelling, heterogeneous modelling, early design phase",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "HOW DO DESIGN HEURISTICS AFFECTS OUTCOMES?",
+			"publication_author": "Yilmaz S., Christian J. L., Daly S. R., Seifert C., Gonzalez R.",
+			"publication_keyword": "design heuristics, concept generation, Design education",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TOWARD UNIFIED ENVIRONMENTAL ACTIVITIES IN ENTERPRISE",
+			"publication_author": "Zhang F., Zwolinski P.",
+			"publication_keyword": "environmental strategies, eco design, environmental management, activities",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INVESTIGATING ELEMENTARY Design methods- USING THE GENOME APPROACH FOR CREATING COMPLETE AND ADAPTABLE METHOD DESCRIPTIONS",
+			"publication_author": "Zier S., Bohn A., Birkhofer H.",
+			"publication_keyword": "elementary Design methods, method adaption",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EMBODIMENT DESIGN BASED ON BASIC SCHEMATA",
+			"publication_author": "Žavbi R., Fain N., Duhovnik J.",
+			"publication_keyword": "design concept, experiment, creative stimuli",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTERPRETING PARAMETER ANALYSIS THROUGH THE PROTO-THEORY OF DESIGN",
+			"publication_author": "Kroll E., Koskela L.",
+			"publication_keyword": "parameter analysis, proto-theory, conceptual design, design theory",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "FROM DESIGN RESEARCH TO RESEARCH DESIGN - TRANSFER OF DESIGN THEORY TO NATURAL SCIENCE",
+			"publication_author": "Schöfer M., Maranzana N., Aoussat A., Bersano G.",
+			"publication_keyword": "design theory, natural science, research design, TRIZ",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "IMPROVING CONFIDENCE IN SMALLER DATA SETS THROUGH METHODOLOGY: THE DEVELOPMENT OF A CODING SCHEME",
+			"publication_author": "Snider C. M., Dekoninck E. A., Culley S. J.",
+			"publication_keyword": "engineering design, content analysis, methodology",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "IDEA – INVENTION – INNOVATION: STRATEGIES, APPROACHES, RESEARCH CHALLENGES",
+			"publication_author": "Weber C.",
+			"publication_keyword": "idea generation, invention development, innovation strategy, design theory and methodology",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "REAL PRODUCT EYE TRACKING",
+			"publication_author": "Badni K. S.",
+			"publication_keyword": "eye tracking, virtual product, real v virtual comparrison",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "WORKING TOWARDS BUILDING A SENSITIVITY INDEX FOR A VEHICLE CONTROL DEVICE: A METHODOLOGY USING CONCEPT NETWORK ANALYSIS",
+			"publication_author": "Georgiev G. V., Nagai Y., Taura T., Noda S.",
+			"publication_keyword": "human sensitivity, device operation, vehicle interior, kansei engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "AESTHETICS AS PARAMETER OF INTELLIGENT DESIGN SUPPORT",
+			"publication_author": "Kaljun J., Sancin U., Harih G., Dolšak B.",
+			"publication_keyword": "aesthetics, design, artifitial intelligence",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EFFECT OF INFORMATION ASSIMILATION ON PRODUCT EVALUATION",
+			"publication_author": "Kim S. K., Cho Y. I., Niki K., Yamanaka T.",
+			"publication_keyword": "intuition, subjective preference, product evaluation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PRODUCT EXPRESSION AND SELF-CONSTRUAL: DOWNSTREAM EFFECTS OF CONNECTED SHAPES ON SOCIAL CONNECTEDNESS",
+			"publication_author": "Kim J., Yoon C., Gonzalez R.",
+			"publication_keyword": "product expression, design meaning, priming, self-construal",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "Industrial design / DESIGN ENGINEERING AND THE “FACILITATOR TRAP”",
+			"publication_author": "Kokotovich V.",
+			"publication_keyword": "technological change, Industrial design/design engineering, education",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A FRAMEWORK FOR DOMAIN ALLOCATION IN EARLY PHASES OF INDUSTRIAL PRODUCT-SERVICE SYSTEM DESIGN",
+			"publication_author": "Köster M., Sadek T.",
+			"publication_keyword": "(industrial) product-service systems (PSS/IPSS), product service design, conceptual design phase, creativity",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CONCEPT DESIGN AS KNOWLEDGE CONSTRUCTION – THE CASE OF USER-CENTERED DESIGN",
+			"publication_author": "Liikkanen L. A., Laakso M.",
+			"publication_keyword": "creativity models, user-centered design, concept design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A PRODUCT DESIGN METHOD PROPOSAL FOR BABIES´ PLAY AND LEARNING",
+			"publication_author": "Monsalve J., Maya J.",
+			"publication_keyword": "design for children, baby swimming, Design methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "COLOR, COGNITION, AND RECYCLING: HOW THE DESIGN OF EVERYDAY OBJECTS PROMPT BEHAVIOR CHANGE",
+			"publication_author": "Montazeri S., Gonzalez R., Yoon C., Papalambros P. Y.",
+			"publication_keyword": "sustainable behavior, product design, Industrial design, recycling bin, persuasion, behavior change, peripheral cues, visual salience, elaboration likelihood model",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EXPLORING USER NEEDS IN AUTOMOBILES",
+			"publication_author": "Normark C. J., Gkouskos D.",
+			"publication_keyword": "user needs, user experience, automotive, method",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EVALUATING SIMILARITY AND EXPLORING BRANDING IN VEHICLE STYLING USING FOURIER DECOMPOSITION",
+			"publication_author": "Ranscombe C. H., Mullineux G., Hicks B. J.",
+			"publication_keyword": "styling, brand, Fourier",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CUSTOMER EXPERIENCE INTERACTION MODEL",
+			"publication_author": "von Saucken C., Schröer B., Kain A., Lindemann U.",
+			"publication_keyword": "user experience, interaction, emotional design, activity theory",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "METHODS USE IN EARLY STAGES OF ENGINEERING AND Industrial design – A COMPARATIVE FIELD EXPLORATION",
+			"publication_author": "Wölfel C., Debitz U., Krzywinski J., Stelzer R.",
+			"publication_keyword": "design disciplines, Design methods, design practice",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "KEY ISSUES IN THE TAKE-UP OF KNOWLEDGE MANAGEMENT INTERVENTIONS IN ENGINEERING DESIGN",
+			"publication_author": "Carey E., Culley S., McAlpine H., Weber F., Xie Z.",
+			"publication_keyword": "engineering, knowledge management, best practice, knowledge management intervention,  aerospace case study",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PATTERN-BASED INTEGRATIVE DESIGN OF MOLDED INTERCONNECT DEVICES (MID)",
+			"publication_author": "Dumitrescu R., Gaukstern T., Jürgenhake C., Gausemeier J., Kühn A.",
+			"publication_keyword": "mechatronic systems, molded interconnect devices (MID), design methodology, design patterns, integrative development of product and production system",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SUPPORTING TRACEABILITY OF DESIGN RATIONALE IN AN AUTOMATED ENGINEER-TO-ORDER BUSINESS MODEL",
+			"publication_author": "Elgh F., Poorkiany M.",
+			"publication_keyword": "engineer-to-order, design rationale, knowledge management, knowledge modelling, design automation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PARTBOOK - A SOCIAL MEDIA APPROACH FOR CAPTURING INFORMAL PRODUCT KNOWLEDGE",
+			"publication_author": "Gopsill J. A., McAlpine H. C., Hicks B. J.",
+			"publication_keyword": "PartBook, social media, informal product knowledge, informal engineering communication, IEC",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DSM MADE EASY",
+			"publication_author": "Halonen N., Juuti T., Luostarinen P.",
+			"publication_keyword": "facilitation, systems modelling, complexity management, design structure matrix",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A REFLEXION ABOUT REVERSE ENGINEERING FOR DMU MATURITY MANAGEMENT",
+			"publication_author": "Herlem G., Adragna P. -A., Durupt A., Ducellier G.",
+			"publication_keyword": "DMU, product reverse engineering, reeb graph",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A CONCEPTUAL FRAMEWORK TO SUPPORT ENGINEERING DESIGNERS IN USING IN-SERVICE INFORMATION",
+			"publication_author": "Jagtap S., Johnson A., Larsson A.",
+			"publication_keyword": "in-service information, engineering design, aerospace engineering, knowledge management, causality",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTERACTIVE CASE BASED REASONING THROUGH VISUAL REPRESENTATION - SUPPORTING THE REUSE OF COMPONENTS IN VARIANT-RICH PRODUCTS",
+			"publication_author": "Johansson J., Cederfeldt M.",
+			"publication_keyword": "case based reasoning, design automation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "KNOWLEDGE SHARING IN PRODUCT DEVELOPMENT - EXPLORING THE EFFECTS OF POWER STRUGGLE AND TASK CONFLICT",
+			"publication_author": "Karlsson A., Lund K.",
+			"publication_keyword": "knowledge sharing, debate, conflict, hoarding of information, innovation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DISTRIBUTION OF ENGINEERING DESIGN KNOWLEDGE WITHIN THE DEVELOPMENT OF MULTI-AGENT DESIGN SYSTEMS",
+			"publication_author": "Kratzer M., Crostack A., Binz H., Roth D.",
+			"publication_keyword": "knowledge structuring, engineering design knowledge, multi-agent design systems, DfX",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN FOR HUMAN - VIRTUAL ENGINEERING IS A MEDIA FOR KNOWLEDGE TRANSFER",
+			"publication_author": "Leino S. -P., Pulkkinen A.",
+			"publication_keyword": "human, knowledge transformation, virtual engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "REQUIREMENT ANALYSIS FOR CONTEXTUAL MANAGEMENT AND SUPPLY OF PROCESS- AND DESIGN KNOWLEDGE – A CASE STUDY",
+			"publication_author": "Luft T., Wartzack S.",
+			"publication_keyword": "requirement analysis, knowledge management, case study, product development process",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A FRAMEWORK FOR REACHING COMMON UNDERSTANDING DURING SKETCHING IN DESIGN TEAMS",
+			"publication_author": "Nik Ahmad Ariff N. S., Badke-Schaub P., Eris O., Suib S. S. S.",
+			"publication_keyword": "sketching, design process, design thinking, communication, cognition",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "THE USE OF DESIGN REPRESENTATIONS FOR DESIGN COMMUNICATION: INSIGHTS FROM PRACTICE",
+			"publication_author": "Özçelik Buskermolen D., Terken J. M. B.",
+			"publication_keyword": "design process, design representations, design communication, design tools and methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTERDISCIPLINARY ANALOGICAL INFORMATION TRANSFER IN DESIGN:  DIFFERENCES BETWEEN KNOWLEDGE LEVELS",
+			"publication_author": "Özkan Ö. H., Dogan F.",
+			"publication_keyword": "analogical reasoning, distance of source domains, analogy levels, expertise levels, creativity",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CAPTURING THE FLOWS OF THE PRODUCT PROCESS",
+			"publication_author": "Pakkanen J., Becker I., Lehtonen T., Juuti T.",
+			"publication_keyword": "design information, information completeness, information flow",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TRACEABILITY CASE STUDY ON RAIL VEHICLE CONTROL UNIT DEVELOPMENT PROJECT",
+			"publication_author": "Pavkovic N., Tecec Ribaric Z., Svilicic T.",
+			"publication_keyword": "traceability, HW and SW testing, engineering documentation  management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A GAUSSIAN MODEL OF EXPERT OPINIONS FOR SUPPORTING DESIGN DECISIONS",
+			"publication_author": "Rajabalinejad M., Spitas C.",
+			"publication_keyword": "design, decision, decision making, tool",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "THE FUNCTIONS OF THE DESIGN BRIEF",
+			"publication_author": "Read D., Bohemia E.",
+			"publication_keyword": "international project, design parameters, fixation",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EVALUATING THE STRUCTURAL COMPLEXITY OF A PRODUCT FAMILY",
+			"publication_author": "Rissanen N. E., Malmqvist  J., Pulkkinen A. J.",
+			"publication_keyword": "structural complexity, evaluation matrix, concept",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PROCEDURE FOR DERIVING A TARGET KNOWLEDGE-BASE FOR COMPANIES TO EVALUATE KNOWLEDGE FOR PRODUCT DEVELOPMENT",
+			"publication_author": "Roth D., Binz H.",
+			"publication_keyword": "knowledge management, knowledge evaluation, knowledge identification, knowledge structuring",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "TRACEABILITY VISUALISATION TOOLKIT",
+			"publication_author": "Stankovic T., Štorga M., Stojic I., Savšek T.",
+			"publication_keyword": "traceability, evolution, information, visualisation, design, TRENIN",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DEMYSTIFYING INNOVATION AND DESIGN – THE IMPORTANCE OF VISUALIZATION IN IDEATION AND CONCEPTUAL DESIGN",
+			"publication_author": "Wikström A., Jackson M.",
+			"publication_keyword": "visualization, innovation, design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "THE USE OF DESIGN VISUALISATION METHODS TO SUPPORT DECISION MAKING",
+			"publication_author": "Yee J., Walker A., Menzfield L.",
+			"publication_keyword": "visualizations, decision making, Design methods",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DELIMITING STRUCTURAL AND DYNAMICAL SYSTEM ANALYSIS IN ENGINEERING MANAGEMENT",
+			"publication_author": "Biedermann W., Diepold K. J., Lindemann U., Lohmann B.",
+			"publication_keyword": "structural complexity management, hybrid dynamical systems, design structure matrix, complex system analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CORRELATION OF STRUCTURAL CHARACTERISTICS OF PRODUCT DESIGN STRUCTURE MATRICES",
+			"publication_author": "Biedermann W., Lindemann U.",
+			"publication_keyword": "design structure matrix, product model, structural analysis, structural characteristics",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PROPOSAL FOR FUNCTIONAL PRODUCT DESCRIPTION AS PART OF A PLM SOLUTION IN INTERDISCIPLINARY PRODUCT DEVELOPMENT",
+			"publication_author": "Eigner M., Gilz T., Zafirov R.",
+			"publication_keyword": "model-based systems engineering, product data management, product lifecycle management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "OPTIMIZING SYSTEM ARCHITECTURE FOR ADAPTABILITY",
+			"publication_author": "Engel A., Reich Y., Browning T. R., Schmidt D. M.",
+			"publication_keyword": "systems architecting, modularity, transaction costs, financial options, architecture options, DSM, optimization, adaptability, TRIZ",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MODULARITY, VARIANT AND VERSION MANAGEMENT IN PLANT AUTOMATION – FUTURE CHALLENGES AND STATE OF THE ART",
+			"publication_author": "Feldmann S., Fuchs J., Vogel-Heuser B.",
+			"publication_keyword": "modularity, variant and version management, concurrent engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ON THE MARKET ASPECT OF PRODUCT PROGRAM DESIGN: TOWARDS A DEFINITION OF AN ARCHITECTURE OF THE MARKET",
+			"publication_author": "Hansen C. L., Mortensen N. H., Hvam L.",
+			"publication_keyword": "market architecture, product architecture, product program design, product family, platform",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PRODUCT STRUCTURE MANAGEMENT AS THE BACKBONE OF ENGINEERING DESIGN: EXPLORATION OF A REFERENCE MODEL",
+			"publication_author": "Kissel M., Bradford N., Kreimeyer M., Lindemann U.",
+			"publication_keyword": "product architecture, product structure, process planning, systems engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "HANDLING PRODUCT INFORMATION - TOWARDS AN IMPROVED USE OF PRODUCT MODELS IN ENGINEERING DESIGN",
+			"publication_author": "Kohn A., Lutter-Günther M.,  Hagg M., Maurer M.",
+			"publication_keyword": "product information, product model, product model classification, product model choice and combination",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "VALIDATION OF PRODUCT PROPERTIES CONSIDERING A HIGH VARIETY OF COMPLEX PRODUCTS",
+			"publication_author": "Kortler S., Kohn A., Lindemann U.",
+			"publication_keyword": "validation, product variety, data analysis, product property",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A PRODUCT MODEL TO SUPPORT PLM-BASED VARIANT PLANNING AND MANAGEMENT",
+			"publication_author": "Kreimeyer M.",
+			"publication_keyword": "product structure, product architecture, early phases of engineering design, variant management",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A FRAMEWORK FOR MODEL-BASED SAFETY ANALYSIS OF COMPLEX ENGINEERED SYSTEMS",
+			"publication_author": "Mehrpouyan H., Kurtoglu T., Bunus P.",
+			"publication_keyword": "hazard analysis, risk-based design, safety analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PRODUCT ARCHITECTURE GENERATION AND EXPLORATION USING BAYESIAN NETWORKS",
+			"publication_author": "Moullec M. -L. , Bouissou M., Jankovic M., Bocquet J. -C.",
+			"publication_keyword": "architecture generation, Bayesian network, product design, uncertainty",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTEGRATING STRUCTURE AND UNCERTAINTY MODELING USING MULTIPLE-DOMAIN-MATRICES",
+			"publication_author": "Neumann M., Sadek T., Labenda P., Herzog M.",
+			"publication_keyword": "uncertainty, risk, structure modeling, DSM, MDM",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MANAGEMENT OF CROSS-DOMAIN MODEL CONSISTENCY FOR BEHAVIORAL MODELS OF MECHATRONIC SYSTEMS",
+			"publication_author": "Rieke J., Dorociak R., Sudmann O., Gausemeier J., Schäfer W.",
+			"publication_keyword": "consistency management, model transformation and synchronization, mechatronics, systems engineering",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EVALUATION OF ARCHITECTURE OPTIONS IN SYSTEMS ENGINEERING",
+			"publication_author": "Schrieverhoff P., Bender T., Kissel M., Lindemann U.",
+			"publication_keyword": "option theory, black-scholes equation, real options, value estimation, system architecture",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "A NEW  INTEGRATED APPROACH TO IMPROVE THE ROBUSTNESS OF COMPLEX  MULTI-DISCIPLINARY SYSTEMS",
+			"publication_author": "Sop Njindam T.,  Paetzold K.",
+			"publication_keyword": "systems engineering, multidisciplinary systems, failure analysis",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "INTEGRATING SYSTEMS AND MECHANICAL/ ELECTRICAL ENGINEERING - HOW MODEL-BASED INTERFACE MANAGEMENT SUPPORTS MULTI-DOMAIN COLLABORATION",
+			"publication_author": "Tristl C., Karcher A.",
+			"publication_keyword": "model-based engineering, interface management, systems engineering, product lifecycle management, aircraft development",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EXPERIENCING PROTOCOL ANALYSIS OF COMPUTER-GUIDED DESIGN TASKS",
+			"publication_author": "Becattini N., Borgianni Y., Cascini G., Rotini F.",
+			"publication_keyword": "design protocol analysis, computer-aided design, problem setting",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SEARCHING FOR INSPIRATION DURING IDEA GENERATION: PICTURES OR WORDS?",
+			"publication_author": "Cardoso C., Gonçalves M., Badke-Schaub P.",
+			"publication_keyword": "inspiration, idea generation, pictorial and written stimuli",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "MEANING-BASED ASSESSMENT OF TYPOLOGY IN CREATIVE DESIGN",
+			"publication_author": "Casakin H., Kreitler S.",
+			"publication_keyword": "design creativity, theory of meaning, meaning system, assessment, typology",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SOURCES OF CRITICAL SITUATIONS AS CRUCIAL ACTIONS IN DESIGN",
+			"publication_author": "da Silva Vieira S. L., Badke-Schaub P., Fonseca T. M., Fernandes A. A.",
+			"publication_keyword": "sources, critical situations, crucial actions in design",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "HOW FAR IS TOO FAR? USING DIFFERENT ABSTRACTION LEVELS IN TEXTUAL AND VISUAL STIMULI",
+			"publication_author": "Gonçalves M., Cardoso C., Badke-Schaub P.",
+			"publication_keyword": "verbal stimuli, pictorial stimuli, analogies",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EVALUATION OF CREATIVITY – STRUCTURING SOLUTION IDEAS COMMUNICATED IN GROUPS PERFORMING SOLUTION SEARCH",
+			"publication_author": "Hashemi Farzaneh H., Kaiser M. K., Schröer B.,  Srinivasan V., Lindemann U.",
+			"publication_keyword": "creativity measures, creative process, solution search",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "IDEATION METRICS: INTERDEPENDENCY BETWEEN AVERAGE NOVELTY AND VARIETY",
+			"publication_author": "Jagtap S., Larsson A., Hiort V., Olander E., Warell A.",
+			"publication_keyword": "ideation metrics, novelty, average novelty, variety",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "RETAIL DESIGN: A NEW DISCIPLINE",
+			"publication_author": "Christiaans H. H. C. M., Almendra R. A.",
+			"publication_keyword": "retail design, multidisciplinary approach, case study",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGNING FOR UNREVEALED VALUES",
+			"publication_author": "Mekhilef M.",
+			"publication_keyword": "user values, user needs, design requirements, psycho sociology in design, design evaluation, design supporting tools",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "EXISTING PROBLEMS OF IDEA EVALUATIONS AND POSSIBLE AREAS OF IMPROVEMENT",
+			"publication_author": "Messerle M., Binz H., Roth D.",
+			"publication_keyword": "idea selection, idea evaluation, evaluation method",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DEVELOPMENT OF SYSTEMS THINKING IN MULTI-DISCIPLINARY TEAM INTERACTION: TWO CASES FROM SPACE INDUSTRY",
+			"publication_author": "Moser H. A., Ziegler G. D. S., Blessing L., Braukhane A.",
+			"publication_keyword": "space systems engineering, systems thinking, learning, boundary crossing",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "METHOD OF CREATIVITY INCLUDING AN IDEAS EVALUATION TOOL: APPLICATION IN AN INTERNATIONAL WORKSHOP",
+			"publication_author": "Roussel B., Bary R., Ferioli M.",
+			"publication_keyword": "method for creativity session, tools for ideas organization and evaluation, international workshop",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DECISION SUPPORT SYSTEM FOR IDEA SELECTION",
+			"publication_author": "Stevanovic M., Marjanovic D., Štorga M.",
+			"publication_keyword": "idea selection (IS), decision support system (DSS), new product development (NPD)",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "ORIGINALITY AND NOVELTY: A DIFFERENT UNIVERSE",
+			"publication_author": "Verhaegen P. -A., Vandevenne D., Duflou J. R.",
+			"publication_keyword": "design evaluation, effectiveness metrics, originality, novelty",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN RE-THINKING: FROM ITALIAN RENAISSANCE TO STRATEGIC DESIGN ARCHITECTURE",
+			"publication_author": "Faroughi A., Faroughi R.",
+			"publication_keyword": "strategic design, renaissance, disegno, complexity, design theory, architecture",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGNING A MODEL OF THE UNKNOWN: ARTISTIC IMPACT IN A CHAIN OF SKILLED DECISIONS",
+			"publication_author": "Florin U., Eriksson Y., Orre I.",
+			"publication_keyword": "design process, boundary object, practical knowledge, artistry, model making and profession",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "SENIORPRENEURSHIP AS AN OPPORTUNITY FOR SUPPORTING SCIENCE AND TECHNOLOGY  TRANSFER AT UNIVERSITIES",
+			"publication_author": "Gaus O., Neutschel B., Raith M. G., Vajna S.",
+			"publication_keyword": "seniorpreneurship,  knowledge transfer, intrapreneurship, technology based start-ups",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGN FOR GENDER – A NEW PERSPECTIVE FOR THE DEVELOPMENT OF MACHINES",
+			"publication_author": "Hehenberger P., Cojocaru E., Ernst W.",
+			"publication_keyword": "product development, gender, design process, design for X",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "READY TO USE, EASY TO EVOLVE",
+			"publication_author": "McConnell A. F., Spinelli G.",
+			"publication_keyword": "older people, mobile phones, access, empowerment, inclusion",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "DESIGNING FOR THE AGEING EXPERIENCE: FRAMEWORK OF INFLUENCES ON ADOPTION AND USE OF TECHNOLOGY PRODUCTS BY USERS IN DIFFERENT LIFE STAGES",
+			"publication_author": "Medeiros A. C. B., Mieczakowski A., Clarkson P. J.",
+			"publication_keyword": "user experience, technology adoption, product use influences",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "FEASIBILITY OF BUILDING LEN LYE’S KINETIC SCULPTURE &amp;quot;SUN, LAND AND SEA&amp;quot;",
+			"publication_author": "O’Keefe A. N., Gooch S. D.",
+			"publication_keyword": "design of flexible structures, art/engineering collaboration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "THE AMBIGUOUS ROLE OF METHODS IN Design education: INITIAL FINDINGS FROM THE DELFT METHOD STUDY",
+			"publication_author": "Daalhuizen J., Person O., Gattol V.",
+			"publication_keyword": "Design methods, designer, education",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "REVISITING PROTOTYPING - LEARNING IN EARLY DESIGN",
+			"publication_author": "Ericson Å., Håkansson  A., Öhrling D.",
+			"publication_keyword": "design skills, low-fidelity prototyping, sketching, user involvement, product-service systems",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "PROJECT ORIENTED LEARNING ENVIRONMENT, BRIDGING ACADEMIA AND INDUSTRY",
+			"publication_author": "Holliger C., Flores R. I., Monterrubio C., Stroschein S.",
+			"publication_keyword": "transdisciplinarity Design education, international and trans-cultural cooperation, dynamic knowledge databases",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "LEARNING ACTIVITIES THAT IMPROVE THE DESIGNERS SOCIAL SKILLS?",
+			"publication_author": "Holmqvist J., Ericson Å., Wenngren J.",
+			"publication_keyword": "engineering education, teamwork, knowledge sharing, product-service systems",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "JOINED-UP DESIGN: UNDERGRADUATE TECHNICAL SKILLS AQUISITION",
+			"publication_author": "Porobic S., Schaber F.",
+			"publication_keyword": "live projects, young design programme, digital skills acquisition, urban regeneration",
+			"publication_conf_code": "DESIGN 2012"
+		},
+		{
+			"publication_title": "CREATING A RESEARCH ENVIRONMENT FOR THE  EVALUATION OF Design education IN EMBODIMENT DESIGN",
+			"publication_author": "Spitas C., Badke-Schaub P., Spitas V., Rajabalinejad M., Karana E.",
+			"publication_keyword": "Design education, methods, evaluation, designer",
+			"publication_conf_code": "DESIGN 2012"
+		}
+	]
+}
