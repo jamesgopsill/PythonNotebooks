@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Inconsolata;
+    src: url('../extras/Inconsolata-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Inconsolata;
+    src: url('../extras/Inconsolata-Bold.ttf');
+    font-weight: bold;
+}
+
+.text_cell_render p, .text_cell_render ul {
+  font-family: serif !important;
+  font-size: 17px;
+}
+
+
+.CodeMirror {
+  font-family: Inconsolata !important;
+  font-size: 12pt;
+}
