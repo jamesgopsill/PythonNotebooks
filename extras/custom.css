@@ -125,3 +125,8 @@
   font-family: Inconsolata !important;
   font-size: 12pt;
 }
+
+img[alt=center] {
+  width:50% !important;
+  margin: 0 auto !important;
+}
